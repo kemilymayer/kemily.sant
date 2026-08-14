@@ -5,3 +5,11 @@ h1 {
 body{
     background-color:rgb(255, 251, 255);
 }
+
+header{
+    border-bottom:1px solid black;
+}
+
+footer{
+    border-top:1px solid black;
+}
