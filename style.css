@@ -13,7 +13,10 @@ header{
 footer{
     border-top:1px solid black;
 }
-.imagem-produto{
+.imagem-produto
+{
 display: flex;
 align-itens: center;
+margin: 0 auto;
+padding: 20px;
 }
